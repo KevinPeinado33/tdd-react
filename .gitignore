@@ -1,0 +1,5 @@
+# environments
+.env
+
+# dependencias
+node_modules
